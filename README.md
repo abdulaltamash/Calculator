@@ -8,7 +8,7 @@
 <body>
    
     <div id="calculator">
-        <!-- <h1>Calculator</h1> -->
+        <!-- <h1>Working Calculator</h1> -->
         <div id="display-container">
             <p id="display"> </p>
         </div>
